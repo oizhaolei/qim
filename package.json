@@ -1,0 +1,16 @@
+{
+  "name": "tttalk.qim",
+  "version": "1.0.0",
+  "description": "tttalk qcloud im",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "log4js": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bundleDependencies": [],
+  "private": true,
+  "main": "app.js"
+}
